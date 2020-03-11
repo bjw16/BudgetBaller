@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Budget_Baller</string>
+    <string name= "Trans_entry">Transaction Entry</string>
+    <string name = "Purchase_Cat">Purchase Categorization</string>
+    <string name = "Time_based">Time-Based Graph</string>
+    <string name = "Stat">Statistical Analysis</string>
+    <string name = "Budget">Budget and Goal Setting</string>
+    <string name = "Sign_In">Sign In</string>
+    <string name = "Entry">User Entry</string>
+    <string name = "BB">Budget Baller</string>
+</resources>
